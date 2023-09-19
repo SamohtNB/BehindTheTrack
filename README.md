@@ -7,7 +7,7 @@ we will also include fun fact and data about each track
 at this instant we have 10 teams with 2 drivers each
 
 * Redbull 
-	* Max Verstappen, word driver champion of 2022
+	* Max Verstappen, _word driver champion of 2022_
 	* Sergio Perez aka Checo
 * Ferrari
 	* Charles Leclerc
