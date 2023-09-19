@@ -1,1 +1,1 @@
-##WORK IN PROGRESS
+console.log("this is the first assignement")
